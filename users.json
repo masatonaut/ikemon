@@ -1,0 +1,29 @@
+{
+    "admin": {
+        "username": "admin",
+        "email": "admin@example.com",
+        "password": "admin",
+        "isAdmin": true,
+        "owned_cards": [],
+        "id": "admin",
+        "balance": 1130
+    },
+    "user_65a603ca40d969.68617786": {
+        "username": "b",
+        "email": "b@gmail.com",
+        "password": "b",
+        "balance": 7559,
+        "owned_cards": [
+            "charizard"
+        ],
+        "id": "user_65a603ca40d969.68617786"
+    },
+    "user_65a61d5c7f5015.44134314": {
+        "username": "c",
+        "email": "c@gmail.com",
+        "password": "c",
+        "balance": 9975,
+        "owned_cards": [],
+        "id": "user_65a61d5c7f5015.44134314"
+    }
+}

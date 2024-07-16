@@ -1,0 +1,121 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+body {
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  background: #ecf0f1; /* Light grey background for a modern look */
+}
+
+header {
+  background-color: #3498db; /* A blue shade for the header */
+  padding: 20px 0;
+  text-align: center;
+  color: white; /* White text for better contrast on blue background */
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin: 0 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: white; /* White links for better contrast on blue background */
+  font-weight: bold;
+  transition: color 0.3s; /* Smooth transition for hover effects */
+}
+
+nav ul li a:hover {
+  color: #f8f8f8; /* Slightly lighter color on hover */
+}
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  padding: 20px;
+}
+
+.card {
+  border: none; /* Remove border for a cleaner look */
+  border-radius: 20px; /* Rounded corners for the card */
+  overflow: hidden; /* Ensures the image doesn't break the border-radius */
+  width: 250px; /* Adjust width as necessary */
+  text-align: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow for depth */
+  background: #fff;
+  transition: box-shadow 0.3s, transform 0.3s; /* Smooth transitions for hover effects */
+}
+
+.card:hover {
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2); /* Larger shadow on hover for a 'lifting' effect */
+  transform: translateY(-5px); /* Slight lift on hover */
+}
+
+.card img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-bottom: 1px solid #ddd; /* Separates image from the text */
+}
+
+.card h2 {
+  margin: 10px 0;
+  color: #333; /* Darker text for better readability */
+}
+
+.card .type,
+.card .stats,
+.card .price {
+  color: #555;
+  font-size: 0.9em;
+  margin: 5px 0;
+}
+
+footer {
+  background-color: #3498db; /* Same blue shade as the header */
+  color: white; /* White text for the footer */
+  text-align: center;
+  padding: 20px 0;
+  margin-top: auto;
+}
+
+.sold {
+  display: inline-block;
+  background-color: #e74c3c; /* Red color for the sold label */
+  color: white;
+  padding: 5px 10px;
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+.buy {
+  background-color: #2ecc71; /* Green color for the buy button */
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.buy:hover {
+  background-color: #27ae60; /* Darker green on hover */
+}
+
+@media (max-width: 600px) {
+  .card-container {
+    flex-direction: column;
+  }
+}

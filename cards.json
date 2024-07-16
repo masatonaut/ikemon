@@ -1,0 +1,159 @@
+{
+    "pikachu": {
+        "name": "Pikachu",
+        "type": "electric",
+        "hp": 60,
+        "attack": 20,
+        "defense": 20,
+        "price": 160,
+        "description": "Pikachu that can generate powerful electricity have cheek sacs that are extra soft and super stretchy.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/025.png",
+        "owned_by": "admin"
+    },
+    "charizard": {
+        "name": "Charizard",
+        "type": "fire",
+        "hp": 78,
+        "attack": 84,
+        "defense": 78,
+        "price": 534,
+        "description": "It spits fire that is hot enough to melt boulders. It may cause forest fires by blowing flames.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/006.png",
+        "owned_by": "admin"
+    },
+    "bulbasaur": {
+        "name": "Bulbasaur",
+        "type": "grass",
+        "hp": 45,
+        "attack": 49,
+        "defense": 49,
+        "price": 318,
+        "description": "A strange seed was planted on its back at birth. The plant sprouts and grows with this POK\u00e9MON.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/001.png",
+        "owned_by": "admin"
+    },
+    "squirtle": {
+        "name": "Squirtle",
+        "type": "water",
+        "hp": 44,
+        "attack": 48,
+        "defense": 65,
+        "price": 314,
+        "description": "After birth, its back swells and hardens into a shell. Powerfully sprays foam from its mouth.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/007.png"
+    },
+    "caterpie": {
+        "name": "Caterpie",
+        "type": "bug",
+        "hp": 45,
+        "attack": 30,
+        "defense": 35,
+        "price": 195,
+        "description": "Its short feet are tipped with suction pads that enable it to tirelessly climb slopes and walls.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/010.png",
+        "owned_by": "admin"
+    },
+    "weedle": {
+        "name": "Weedle",
+        "type": "bug",
+        "hp": 40,
+        "attack": 35,
+        "defense": 30,
+        "price": 195,
+        "description": "Often found in forests, eating leaves. It has a sharp venomous stinger on its head.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/013.png",
+        "owned_by": "admin"
+    },
+    "pidgey": {
+        "name": "Pidgey",
+        "type": "normal",
+        "hp": 40,
+        "attack": 45,
+        "defense": 40,
+        "price": 251,
+        "description": "A common sight in forests and woods. It flaps its wings at ground level to kick up blinding sand.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/016.png"
+    },
+    "rattata": {
+        "name": "Rattata",
+        "type": "normal",
+        "hp": 30,
+        "attack": 56,
+        "defense": 35,
+        "price": 253,
+        "description": "Bites anything when it attacks. Small and very quick, it is a common sight in many places.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/019.png"
+    },
+    "spearow": {
+        "name": "Spearow",
+        "type": "normal",
+        "hp": 40,
+        "attack": 60,
+        "defense": 30,
+        "price": 262,
+        "description": "Eats bugs in grassy areas. It has to flap its short wings at high speed to stay airborne.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/021.png",
+        "owned_by": "admin"
+    },
+    "ekans": {
+        "name": "Ekans",
+        "type": "poison",
+        "hp": 35,
+        "attack": 60,
+        "defense": 44,
+        "price": 288,
+        "description": "Moves silently and stealthily. Eats the eggs of birds, such as PIDGEY and SPEAROW, whole.",
+        "image": "https:\/\/assets.pokemon.com\/assets\/cms2\/img\/pokedex\/full\/023.png",
+        "owned_by": "admin"
+    },
+    "test": {
+        "name": "test",
+        "type": "test",
+        "hp": "100",
+        "attack": "100",
+        "defense": "100",
+        "price": "1000",
+        "description": "Test case",
+        "image": "https:\/\/www.nintendo.hu\/switch\/assets\/img\/pokemon\/char-eevee.png"
+    },
+    "hello": {
+        "name": "hello",
+        "type": "hello",
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "price": 100,
+        "description": "hello",
+        "image": "data:image\/jpeg;base64,\/9j\/4AAQSkZJRgABAQAAAQABAAD\/2wCEAAoHCBUWFRUVFRUWGBgaGRgcHBwZHBwYHBkeGRkaHBocHCMcIS4mHR4tHxoYJjgmKy8xNTg2HCRIQDszPy40NTEBDAwMEA8QHhISHjQlISs0NDQ0PzQ0NDQ0NDE0ND00NDQ0MTQ0MTc0ND00NDQ0NDQ0NDE0NDQ0NDQxNDQ0NDQxMf\/AABEIAOEA4QMBIgACEQEDEQH\/xAAbAAEAAgMBAQAAAAAAAAAAAAAABAUBAwYCB\/\/EAEIQAAIBAgQDBgIHBAgHAQAAAAECAAMRBBIhMQVBUQYTImFxgTJCUnKCkZKhsWJzosEUFSMzQ1OTsyRjssLD0fA0\/8QAGAEBAQEBAQAAAAAAAAAAAAAAAAECAwT\/xAAhEQEBAAIDAQACAwEAAAAAAAAAAQIRAxIhMSJBMmGBUf\/aAAwDAQACEQMRAD8A+zREQEREBERAREQEREDESsxHFkDFEDVGBsctsqHozHQH9nVvKQMbxSulN6v9n4FLZACbhRcqXJGpA0OUW6GGphb66OIiGSIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiJiAiJUcW4wKXgUB6pFwt7BR9Jz8q9NyeQ0JBZN\/E3GYtKSl3ayj1JJ5KoGrMeQAJMqK+IqVvizU6f0AbO312X4B+ypvpq2pWQ6LAnPUbvKmvjIsFvuEXZF5WGpsLljrJBxKyO2HFr2tiIFAVQFA0AAAA8gBoJprIajJRHzm7+SIQX\/Ecq\/aPSa62PVQSeXTUknQADmSbADmSJb8GwTIpepbvXsWtsqi+SmOoUE3PNix0vYJGuTLrNLWIiV5iIiAiIgIiICIiAiIgIiICIiAiIgIiICIiBiInOdoeNlD3NE\/2hHia1xTU7WB0ZzyGwGp+VXLJbdR647xzITRokGr8zWutIEX15FyDovudLBuYpggk3JJNySblidySdzMUkAFhfckkm5JJuWYnUsTckne8wKjFiiI9RwLlUANr7ZmYhFvyzML8pXpxxmMb+9M8viLAliAACSSbAAbk9BPX9XYrfu6Ci3z1mzehCUmX7mMzwzD1O9Iq0kZ0ysuVy9CnsVaoSqs1TdlULbQEkGzRtblqeLns9w0m2IrDKAL01bQgEf3jg\/CxBICnVQTfU2W2bjVL5C1T92pZT6N8P8UhLhcxzVWNRr3Ge2RfqIPCLcibt1YySy3mduXW5XeTx\/XT3A\/otYDmWaiLewqG8x\/TarjlRGuxV38jcgqvpZt+U8MLTyZNtzixDRRgQxZ+uZmYH7N8vsBaZ4UwSsUWwV1zBRsrIQGsOWZXTQfQJ5mazKnBYs\/0mm19O8A\/EroB6eO\/sJTLCda7qIiV5iIiAiIgIiICIiAiIgIiICIiAiJX8X4itCmXOpOiLtmYgkDyGhJPIAnlAg9oONdyO7SzVmFwOSKTbO3uDlXdiDyDFeRJOpJJJNyTqSTuT5zXVxBLM7tmd21Nj4mOgVVFzyAVRc6Dcy1wXA8RUAJUUlPOpq3kQin8mZSOkvx6cZjhPfqEssOy+IUtiEBv4ke\/LxJkIB2JBpa22zC8uMJ2XorrULVT0bRPTKNCPJs0kcXohAlRQFVLq1tAqNa56ABlQk8lDSVm8kt01PqbT0iATzSsRe9\/zmZHStgMEzXPDvCSPFRrmeQZrqVAtr8yAPVjYSFjqznOqHKEW7uMubO1slNMwKgnQsxBsGWwOa6tNWzGerCRcRhbsjro6OrW0AfKwOUm2l7b\/qJVpxCph8UuDxLq5dQ1Gqq5MxN703A0zXBswtfa1yJfQksyi7weKWqgdDobjXQgqSGB6EMCCPKSZzvB3K4h0+WoneAdGQqjn3V6Wn7J6zopXmyx1dMxEQyREQEREBERAREQEREBERA0V6yorO5CqqliToAALknyAnAcS4g2IqKwVjfw0kA8Vjr7McuZr6ALropJt+2PERpQBFrB6nS17op8rqWPko5NJnZfhWQd84s7jQHdENrA\/tGwJ6aDlc10x\/Gdr\/jbwTgC0bO9mrEWLckB3VAdh1O7W10sBexEjFtvtZlfxl7UKg0uy5BfbNUIRb+WZhJ8q+OtZFvt3lMe5YZb\/ay\/lBPbpXVa6UKZOU5EUBVW1zayoi30uTlUeZEiVsbVpspqZGUqzP3ale5VSoLlmY5kBdQTZTa7WABE24vULcXHe0CfQVqevtv7Ss7eVqlA03pBStSniKDKw0OdUZT62R4k347cmXWrejiixdSLFHK6cwQGU\/hYA+Yae5z3YnFNUwwL3zoRTcnUlkUAMb7koUJ8yZ0MldcbLNx4emGKX+Vs3vYj+chVsC1TA4rKTndcSVI3zhnCbdAiD2k9heOF45KS1KdR0QpUZhmYDMtVi6FRe58TOnUlDEc+WePlePSvimSu9UtZUysNxazKy+d7G8+l8LxXe0aVQ7uisbbXI1t5XvaVNLgas72BXDliyIQVdg2pUjdEuTYGzWIFlt4rx3C5VAuSQqKuhY20UdBYHXYAE7CdM8sbrrGOHHLHdyviXwpM1Yt9BCvvUZWt6gID9oS9kHh+GFKn4yMxJZ22BY778gLAX5ASHiO1GEX\/AB1b93er\/wBANveYYy\/K7i6icnX7b0h8FKo\/mcqj9S35SqxHb572VaCE7Z3Ln7vBBMMn0GJ86HaTHP8ACG10\/s8O7D7yGH3mbabcUbniCPNaFP8AUKYXpf8AsfQInz7+hcSO4xP+si\/9NUTfTwnERyxHvVpn9XMHT+3dROKWtj0uW7+w6rTqf7YZvvM24ftW4JDoj23CHIw6DKxIv6lYOl\/XrsYkLh2Pp10FSmbg3BBFiCN1YbgjpJsMEREDE04nELTRnY2VVLE+Si5m6c72yr2oqg\/xHAP1Vux9rhR7wsm7pQcDw7YjEl3Hzd7U563sieY8IUdVpEHefQZQ9ksHkoK5+Kr4z9UgZB5eHKSOpbrL6Fyu74zERDJIfEcGK1N6ZNswFmGpVlIZHF+asFYeYkyIHLmnmD06gAa1nUE7MLXU75TrZv0IIETiSPUw7UKytU2y1ky5gy6qzpdbm4F8l8128K3tOpxOFVxZhtsQSCPQjUfzle\/Daq\/CyOOjjI3uygqfZBJ7PY63LHKaycr2XpuveZ6T0wQmjC13HeK5HMiwTWw0tsbgdEKZkF8cEqijUKI7fAA6uW6ggWKnpffXpJzPLbbd11wkkknx4nhrDxG2gOvMdbT2TKDjHEs4ajRbxbO41FPr5F+i+l7DeN2o78fLFlpnOwZlsvIqbHM2yC999TY2BlZhONYpXZQ6LVJZfApqVQL5gqBswAyhWNkJbQnQACbhqCoiogsqiw5+5PMnmTqZKwvDEqOHdEbKLZmUE26AkXtJGbNoqdn8ZiGzPTbe4bEudL75VOZl9MqiXeE7C861dj5U0VB6EvmJ9QFm3+qcPv3FH8Cf+ptTBovwrk+oTT\/NCJds3DL9VNw3ZHBoLGiKn70tV\/JyQPYCXGHwqILIiIOiqFH5CUFJKi606tXQGyswcMbaAmqGaxPRh6y+wdQsisdyoJsCBe2tgdRrfQ6yuOUuP1JiIhgiJiAkLiXD0roUcejDRlPJlPIiTZQdpOLCmBSQ2qODqN0TZn8jyXz1sQphZLb4puxOIcVMjAHPSzuRouemUXMByzB\/uRek7ict2Pwnx1rALbu0A6KfGR5ZgF+wes6mFz\/lWYiIZYnI9uKBPcv8o7xCehqBSP8AbI9SOs66R8XhlqqUcBlYWIP\/ANoQdQRqCIXG6u0Ds3j1q0E2DIqo6\/RZQAfY2uDzBEt5xOK7MV6Zz0XL22ObuqgHS62Vv4R5GRG4zxGjoyu316BcD7VCyn8Rhq4y\/K+gxPnLdscZtfDg9DRqX\/3pkdpcew0CnzXD1D93iP8AOE6V9FkXG4+lSGarUVByzMBc9Bfc+QnA0q3E6\/hBxNr2JKLhgPO5VHI9L+8l4fsNUZs1Wsqk\/EVDVXYeTvax9VaDrJ9qdxLttTUHuUL2+dz3SD7wWP4QD1lL\/Tsfi\/h7wqeVJe5p2+uzXbTcBz6TseHdncPRsVphmHzP429r6L9kASxxNbIjPZmyqTZRdjYbAczBuT5HB0+x2VScVVSnT5qgzsSToLsuW5+iEYknQzxVouCi0KtejSQEZXIrO+1mY1QxQCx8IOxHw2sL0ZnYVarBmIugU3SmGGyfSNt3Op1tlByjVivFdFUu4+VbEj6x2X7REld8ZddsqosTh3Ksz1q9QAE5bqt7a2Apql79CTeZGHyhQqgLYZco8NuVraWl7huAYhrFmp0xf4QGqkj1uoU\/iE9cPw3dhqN8wpOUBIt4SFdR6BXVfsyaXHOW6ipwuAZzqLDzlrUosEy0mRD1dC4+4OmvvJtp4ZZW0ThmGqO7pUrgMLMuSmq5ksAx8Ra5D3B6Ar1lp\/Uzf57e6p\/ICQKtNjlZWyshzK1r2OxBHNSLgi40OhBAIueH48VAQRldQMyk3t0YH5lPJvvAIIBxz7Y3y+K+rwqqxCFh3bHxsjPSqBQCcosSbk2GYMpAJ0vrLfC4ZaahVFlF7aknU3JJJJJJJJO5vJEzK422\/SImIQiJz\/HO0IpXp0gHq87\/AA077F7ak8wg1OmwOaFktuok8c4utBbCzVGByr\/3N0Qcz7DUzjMDgqmIrMoZi7ENVqc0XbTkDa4RdhvYgG\/rB4StiajBSWYkd5VcXVPLTdrHRBYDnYHXu+G8PSggRNtyTqzMd2Y8yf8A0BYACV03MJqfUjD0VRVRQFVQAoGwAFgBN0RI5EREBERAREQEREBERATBEzECkHAwCqB27lQBk5nKLKuYahLWuNzYa2uDa0aSooVVCgbBQAB6ATbELbaTnzrUrn\/mfpTpr\/KdBObwbhjVZWDA1qouNdVcoRp0Kke0lb4v5N9prabWE1lYejbypnivSVrG5Vl1VlNmU9VP6g3B5giZ8ohdbScLxcqQtewuQFqDRWJ2Dj\/DYnTUlTpY3OWXc5plBBBAIIIIOoIO4IO4nrC8UXDjLWcLS0CMx+E\/QJ8\/lPkR0ucM+PXsdHNdSoFBLEAAEkk2AA3JJ2E5viHbXDoLU89VuiqVX1LMALfVzHynHY7iGKx1TJZmBsVop8CgfM5Ns2vzPZdrAHfWnOYW\/wBLvjnbEvdMM2WnrmrHQsOfdX2X9s\/ZBuGGOA8BauoZg1Kle4Oz1AdSVvqoJPxnxHW24eWPA+x6pleuRUcWIUf3aEag66uw6mw0FgDrOuhq5STWLRhcMlNQiKFVdgBYD\/7rJERI5kREBERAREQEREBERAREQEREBERAh8TxJp0ncasFOUdWOij3Yge857s\/QCUcgFgtXED1\/wCIqa+p395b8fuUQDnVp3+y4b9VEg4dcuYA7sWt0zan+LMfeSu3FPNpJnm085ozQ7IwI75\/Omh9bNUv91x94m5rSDxJ8hWtyS4f929s5+yVRyeiNbeS4IGR8fglrU3pNs4tf6J3Vh5hgCPSSwkOwUXMK4Ts3wapi2+gqG1VtDlYfEi30Lg730Ate9wD9O4ZwylQTJSTKOZ3Zj1ZjqT6yH2XYd04UAAVqp061G70\/nUMupdvLnlbfWYiIYIiICIiAiIgIiICIiAiIgIiICIiAiIgc52yxhpUabjlXpk6X8K3Z7W55Va0jYliMtRPEBuF1zo1r5bbkWVh1sR815I7bL\/YI30aqH8QZP8AunK4LilSiMoGdOS\/Onkl9GX9kkW5XFlErvxfHV06qsoZSCpAII1BB2ImS05FeJqXZqLBSSC9Jsyi7E+IAjMjMb62Kkgm1yWlkmIcrmdKqDUeNGUaftWtbob6w6don43FgAquplHh+JthlCMt6I+Fv8ofRb\/ljkflGh0AI2NjqX+bT9nUn9Zso4avWNqNFrX+OoGpIPQsM7fZUjzEFyk\/aaOMC2i\/npIuIxbvudOgllgew1BLlmqkncI7UaYO5KojAam5u2Y67yFxfgi0KiFWqFHBUBmZgrLdrb65luddPAesmmJyS3Td2V4ky1HpMBkdzkYAgqyooIbXUMUex02A1zCdpPnjKQPCbMCCp6MpDKfTMBO54filq00qLsy3tzB5g+YNwfMSxz5MdXaXERK5kREBERAREQEREBERAREQEREBERAREQKXtdTzYSsfoBan+myufyUzhqdJmNlF59NrUwyspFwwIPoRYzhuH08lNFPxKMrfWQ5H\/iUw78P7iT2bLUa4DWy1Rk9GXMyegINQX65Rznazi6iFlsDY6FTvlZSGRvZgD7TqOHYsVaavaxOhG+VgbMPOxBF4Z5cdXaZaZiIcmJUdpaV6DHmhV79AhBb70zD3lvNOLoB0dDs6sp9GBB\/WFl04ciXHZavlapROxvUT7RtUUejkMT1q+U08MpA00dh4mRGPkWUEj7zN9clctRRqhzWHNdnXzupaw6hekzHoyx7Yumia0YEAg3BFwRsQdjNk08xERAREQEREBERAREQEREBERAREQEREDE5LGUMleqnJiKi9LPo48znV2P1x1nWyn7QYYlVqICWpkmw3dCLOo87WYDmyKIawy63asenNnCK3d1wvyVrj0qItwR9ZFe5\/YXrI64hWNla\/hVwRsVYkAg8\/hP3jqJFZyuIoLr\/aVUKc7Mn94vkDTBI5eF+ouds\/cXdREQ85ERA5nCrlDKflqVVt0GdmQfgZJuniouWvXF\/idH9L00T\/AMd\/eSWpbSPXjl+MeuA1LK1EnWmRl\/dtcp7CzJ9iW85uqe7q0amwzd22\/wANWyj37wUteQLdTOklebOarMREMkREBERAREQEREBERAREQEREBERAREQOU43wCqXWthWQMC16dS6qwf4wrKCUuQjWykFkG1zfdwLg1UMK2IK51vlRGLKpIILFiq3bKSLAWFzvpbpIhrtdaZiIhkiIgUWLX\/iXPWlS\/Jq1\/wBVm9Wjia2qUnOxDofVirLf8DAebDrIXDqpampY3YXRvroxR\/4lJ95HfC7xb8VQWqjpf4gy3B1U20PkQbH2k\/hWKNWjSqEWLIpI6EjxD2NxKVquSqR8tSmzeQemUU382V1\/0jLLs5\/+dfNqh9jUcj8jDGa1iIlcyIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiIEXGYZaiNTYeFhY2NiOYII1BBsQRsQJytXC43DuSEOJRz4mTIrggBVdlYjUqFVslwcgIVbkHtJiFls+OIODxWJqIDTehTXPmdyobxLlsiqxJOp1bKBYHxbTscNQWmqooAVVCqByCiwH3CbogttZiIhCIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgIiICIiAiIgf\/2Q=="
+    },
+    "igen": {
+        "name": "igen",
+        "type": "igen",
+        "hp": 10,
+        "attack": 10,
+        "defense": 10,
+        "price": 10,
+        "description": "10",
+        "image": "10"
+    },
+    "test2": {
+        "name": "test2",
+        "type": "tes",
+        "hp": -10,
+        "attack": 10,
+        "defense": 10,
+        "price": 10,
+        "description": "20",
+        "image": "10"
+    },
+    "a": {
+        "name": "a",
+        "type": "a",
+        "hp": 100,
+        "attack": 100,
+        "defense": 100,
+        "price": 8000,
+        "description": "a",
+        "image": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRcLkAIGRFvqvKqz0IBH_AoPbxR1o5sGS8Qcg&usqp=CAU"
+    }
+}
